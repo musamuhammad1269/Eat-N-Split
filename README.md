@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+To see the project live, click at the following link: https://musamuhammad1269.github.io/Eat-N-Split/
 
 ## Available Scripts
 
